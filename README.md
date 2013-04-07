@@ -56,8 +56,59 @@ After a lunch break, students work on individual assignments and research.
 
 ### 1. TDD of Ruby Data Structures
 
+Goal: Demonstrate competence in standard-library Ruby
+Capstone: Implement a variant of `cal`
+
+Week 1: Warm-up and Basic Data Structures
+Week 2: Digging into Cal; Basic Searching and Sorting Algorithms
+Week 3: Finishing basic Cal; Refactoring; Documentation
+Week 4: Advanced Cal; Picking unit 2 capstone projects; Intro to Gem Ecosystem;
+
 ### 2. Exploring the Ruby Ecosystem
+
+Goal: Demonstrate mastery of:
+  * git
+  * project documentation (README, comments)
+  * writing unit tests
+  * basic ruby
+
+Capstone: TDD Command-line Ruby Application
+(This will deviate from the previous course, allowing students to use ActiveRecord as a data store.  Otherwise, it will be pure standard-library)
+
+Week 5: Planning capstone project; Intro to storing data with Ruby (e.g. File, CSV, ActiveRecord)
+Week 6: Working on capstone projects; Whatever strikes our fancy
 
 ### 3. Developing a simple Rails application
 
-### 4. Advanced Topics
+Goal: Students develop an awareness of how the components of Rails interoperate and the basics of developing a Rails Application.
+Capstone: This has no capstone, as the goal is to prepare for the final capstone project.
+
+Week 7: Capstone project presentations; Intro to Sinatra (with Cal)
+Week 8: What is MVC?; Spinning up and deploying a simple Rails app
+Week 9: Planning and choosing a final capstone project; In-class development of a Rails app using TDD
+
+### 4. Advanced Topics and Career Prep.
+
+Goal: Students form an understanding of the depth and breadth of the field while meeting many of the practicing developers in Nashville.
+Capstone: Develop a decent-sized resume-worthy Rails app using TDD
+
+Lectures in this final portion of the class will be delivered primarily by mentors and community members on their individual areas of expertise.
+
+Week 10: 
+Week 11: 
+Week 12: 
+
+Topics for this class session have not yet been arranged.  However, the previous class covered such topics as:
+
+  * Caching
+  * Deployment
+  * Server administration and automation
+  * How the DNS system works
+  * How operating systems work
+  * Dev Ops
+  * Networks
+  * DB/Security Best Practices
+  * API Development
+  * Integrating with APIs
+  * Fundamental Gates and Circuits
+
