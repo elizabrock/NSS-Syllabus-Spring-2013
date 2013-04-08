@@ -7,6 +7,10 @@ The syllabus and slides for the Spring 2013 Software Development Fundamentals co
 
 http://planbookedu.com/s/RQLTP
 
+## Courseware:
+
+https://canvas.instructure.com/courses/790528
+
 ## Volunteer/Mentor Schedule:
 
 (pending)
