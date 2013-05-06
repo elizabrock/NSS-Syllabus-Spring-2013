@@ -64,10 +64,10 @@ After a lunch break, students work on individual assignments and research.
 
 **Capstone**: Implement a variant of `cal`
 
-  * Week 1: Warm-up and Basic Data Structures
-  * Week 2: Digging into Cal; Basic Searching and Sorting Algorithms
-  * Week 3: Finishing basic Cal; Refactoring; Documentation
-  * Week 4: Advanced Cal; Picking unit 2 capstone projects; Intro to Gem Ecosystem;
+  * Week 1: Warm-up and Basic Data Structures (Apr 8-14)
+  * Week 2: Digging into Cal; Basic Searching and Sorting Algorithms (Apr 15-21)
+  * Week 3: Finishing basic Cal; Refactoring; Documentation (Apr 22-28)
+  * Week 4: Advanced Cal; Picking unit 2 capstone projects; Intro to Gem Ecosystem; (April 29-May 5)
 
 ### 2. Exploring the Ruby Ecosystem
 
@@ -77,8 +77,8 @@ After a lunch break, students work on individual assignments and research.
 
 (This will deviate from the previous course, allowing students to use ActiveRecord as a data store.  Otherwise, it will be pure standard-library)
 
-  * Week 5: Planning capstone project; Intro to storing data with Ruby (e.g. File, CSV, ActiveRecord)
-  * Week 6: Working on capstone projects; Whatever strikes our fancy
+  * Week 5: Planning capstone project; Intro to storing data with Ruby (e.g. File, CSV, ActiveRecord) (May 6-12)
+  * Week 6: Working on capstone projects; Whatever strikes our fancy (May 13-19)
 
 ### 3. Developing a simple Rails application
 
