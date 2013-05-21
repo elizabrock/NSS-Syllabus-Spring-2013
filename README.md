@@ -78,7 +78,7 @@ After a lunch break, students work on individual assignments and research.
 (This will deviate from the previous course, allowing students to use ActiveRecord as a data store.  Otherwise, it will be pure standard-library)
 
   * Week 5: Planning capstone project; Intro to storing data with Ruby (e.g. File, CSV, ActiveRecord) (May 6-12)
-  * Week 6: Working on capstone projects; Whatever strikes our fancy (May 13-19)
+  * Week 6:  Intro to databases; Whatever strikes our fancy (May 13-19)
 
 ### 3. Developing a simple Rails application
 
@@ -86,9 +86,9 @@ After a lunch break, students work on individual assignments and research.
 
 **Capstone**: This has no capstone, as the goal is to prepare for the final capstone project.
 
-  * Week 7: Capstone project presentations; Intro to Sinatra (with Cal)
-  * Week 8: What is MVC?; Spinning up and deploying a simple Rails app
-  * Week 9: Planning and choosing a final capstone project; In-class development of a Rails app using TDD
+  * Week 7: Working on capstone projects; MVC, HTTP, REPLs (May 20-26)
+  * Week 8: Capstone project presentations; REST; Spinning up and deploying a simple Rails app (May 27-June 2)
+  * Week 9: Planning and choosing a final capstone project; In-class development of a Rails app using TDD (June 3-9)
 
 ### 4. Advanced Topics and Career Prep.
 
@@ -98,9 +98,9 @@ After a lunch break, students work on individual assignments and research.
 
 Lectures in this final portion of the class will be delivered primarily by mentors and community members on their individual areas of expertise.
 
-  * Week 10: TBD; Work on capstone project; Career prep
-  * Week 11: TBD; Work on capstone project; Career prep
-  * Week 12: TBD; Work on capstone project; Career prep
+  * Week 10: TBD; Work on capstone project; Career prep; Advanced Topics (June 10-16)
+  * Week 11: TBD; Work on capstone project; Career prep; Advanced Topics (June 17-23)
+  * Week 12: TBD; Work on capstone project; Career prep; Advanced Topics (June 24-28)
 
 Lecture topics are determined in large part by student interest and mentor availability.
 
