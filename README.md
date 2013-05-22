@@ -13,7 +13,9 @@ https://canvas.instructure.com/courses/790528
 
 ## Volunteer/Mentor Schedule:
 
-(pending)
+Sign up to mentor through VolunteerSpot:
+
+<a href="http://vols.pt/67q1S5"><img src="http://www.volunteerspot.com/images/signup.gif" border="0"></a>
 
 ## Course Goals and Expected Outcomes
 
