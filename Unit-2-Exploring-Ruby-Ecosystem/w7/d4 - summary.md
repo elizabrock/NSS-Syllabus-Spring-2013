@@ -1,0 +1,1 @@
+We didn't have the classroom space on Thursday.  Students worked on completing their capstone projects.
